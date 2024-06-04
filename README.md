@@ -30,4 +30,5 @@ Duration: Parvoz davomiyligi.
 Days_left: Samolyotning qancha vaqtdan keyin qaytishi.
 
 Eng yaxshi algorithm : Random Forest
+
 Baholash -> RMSE : 3177.4411557321496
