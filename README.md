@@ -4,6 +4,8 @@ airticket-price-prediction model
 
 Dataset (Ushbu maʼlumotlar toʻplami) Hindistondagi aviaqatnovlar orqali yig'ilgan 
 
+Vazifa : Avia Chiptalar narxini predict qilish
+
 Tarkib:
 
 1. ID: Ketma - ketlik uchun qo'yilgan sonlar.
@@ -14,12 +16,9 @@ Tarkib:
 6. Stop: Parvoz davomida to'xtashlar soni.
 7. Arrival_time: Qaytish vaqti.
 8. Destination_city: Qaysi davlatga parvoz qilinayotgani.
-
-Class: Foydalanuvchi samolyotning qaysi klass turidan foydalanib uchganligi.
-
-Duration: Parvoz davomiyligi.
-
-Days_left: Samolyotning qancha vaqtdan keyin qaytishi.
+9. Class: Foydalanuvchi samolyotning qaysi klass turidan foydalanib uchganligi.
+10. Duration: Parvoz davomiyligi.
+11. Days_left: Samolyotning qancha vaqtdan keyin qaytishi.
 
 Eng yaxshi algorithm : Random Forest
 
