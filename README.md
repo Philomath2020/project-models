@@ -1,6 +1,6 @@
 # project-models
 
-airticket-price-prediction model
+1-model airticket-price-prediction model
 
 Dataset (Ushbu maʼlumotlar toʻplami) Hindistondagi aviaqatnovlar orqali yig'ilgan 
 
@@ -23,3 +23,11 @@ Tarkib:
 Eng yaxshi algorithm : Random Forest
 
 Baholash -> RMSE : 3177.4411557321496
+
+2-model air-customer-churn
+
+Aviakompaniya yo'lovchilarining qoniqishini bashorat qilish
+
+Dataset(Ushbu maʼlumotlar toʻplami) aviakompaniya yoʻlovchilarining qoniqish soʻrovini oʻz ichiga oladi.
+
+Eng yaxshi natija Random Forest algaritmida Cross-Validation-Score : 98.89995238364142
