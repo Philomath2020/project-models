@@ -31,3 +31,21 @@ Aviakompaniya yo'lovchilarining qoniqishini bashorat qilish
 Dataset(Ushbu maʼlumotlar toʻplami) aviakompaniya yoʻlovchilarining qoniqish soʻrovini oʻz ichiga oladi.
 
 Eng yaxshi natija Random Forest algaritmida Cross-Validation-Score : 98.89995238364142
+
+3 - model Toshkent shahrida uylarning narxini aniqlash.
+
+4 - model Loan status prediction Nasiyaga berish bermaslik
+
+Support Vector Machine model -> Training
+
+Accuracy data score fl 0.8333333333333334
+
+5 - model Diabet prediction
+
+DecisionTrees's Accuracy:  0.8311688311688312
+
+6 - model Mijozning noroziligini (customer churn) aniqlash
+
+Model traning : XGBoostClassifier
+
+Model aniqligi: 0.941699604743083
