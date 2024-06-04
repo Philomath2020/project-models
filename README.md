@@ -2,26 +2,18 @@
 
 airticket-price-prediction model
 
-Dataset Description
-Ushbu maʼlumotlar toʻplami quyidagilarni o'z ichiga oladi:
+Dataset (Ushbu maʼlumotlar toʻplami) Hindistondagi aviaqatnovlar orqali yig'ilgan 
 
 Tarkib:
 
-ID: Ketma - ketlik uchun qo'yilgan sonlar.
-
-Airline: Parvoz qilingan aviakompaniya nomi.
-
-Flight: Parvoz qilingan ID raqami.
-
-Source_city: Parvoz qaysi shahardan boshlanishi.
-
-Departure_time: Samolyotning ketish vaqti.
-
-Stop: Parvoz davomida to'xtashlar soni.
-
-Arrival_time: Qaytish vaqti.
-
-Destination_city: Qaysi davlatga parvoz qilinayotgani.
+1. ID: Ketma - ketlik uchun qo'yilgan sonlar.
+2. Airline: Parvoz qilingan aviakompaniya nomi.
+3. Flight: Parvoz qilingan ID raqami.
+4. Source_city: Parvoz qaysi shahardan boshlanishi.
+5. Departure_time: Samolyotning ketish vaqti.
+6. Stop: Parvoz davomida to'xtashlar soni.
+7. Arrival_time: Qaytish vaqti.
+8. Destination_city: Qaysi davlatga parvoz qilinayotgani.
 
 Class: Foydalanuvchi samolyotning qaysi klass turidan foydalanib uchganligi.
 
