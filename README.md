@@ -20,6 +20,10 @@ Tarkib:
 10. Duration: Parvoz davomiyligi.
 11. Days_left: Samolyotning qancha vaqtdan keyin qaytishi.
 
+<div align="center">
+  <img height="300" src="https://github.com/Philomath2020/project-models/blob/main/pic/ag2.png"  />
+</div>
+
 Eng yaxshi algorithm : Random Forest
 
 Baholash -> RMSE : 3177.4411557321496
@@ -30,7 +34,17 @@ Aviakompaniya yo'lovchilarining qoniqishini bashorat qilish
 
 Dataset(Ushbu maʼlumotlar toʻplami) aviakompaniya yoʻlovchilarining qoniqish soʻrovini oʻz ichiga oladi.
 
+Confusion Matrix to'gri va xatolar sonini ko'rish:
+
+<div align="center">
+  <img height="200" src="https://github.com/Philomath2020/project-models/blob/main/pic/ac5.png"  />
+</div>
+
 Eng yaxshi natija Random Forest algaritmida Cross-Validation-Score : 98.89995238364142
+
+<div align="center">
+  <img height="300" src="https://github.com/Philomath2020/project-models/blob/main/pic/acs6.png"  />
+</div>
 
 3 - model Toshkent shahrida uylarning narxini aniqlash.
 
