@@ -78,7 +78,7 @@ Support Vector Machine model -> Training
 
 Accuracy data score fl 0.8333333333333334
 
-<div align="center">
+<div align="left">
   <img height="100" src="https://github.com/Philomath2020/project-models/blob/main/pic/l2.png"  />
 </div>
 
@@ -116,7 +116,7 @@ Dataset:
 
 Statistics: Qolgan va ketgan mijozlar nisbati pie charm:
 
-<div align="center">
+<div align="left">
   <img height="400" src="https://github.com/Philomath2020/project-models/blob/main/pic/c2.png"  />
 </div>
 
