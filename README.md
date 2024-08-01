@@ -45,8 +45,8 @@ Confusion Matrix to'gri va xatolar sonini ko'rish:
 Eng yaxshi natija Random Forest algaritmida Cross-Validation-Score : 98.89995238364142
 
 Accuracy:
-<div align="center">
-  <img height="400" src="https://github.com/Philomath2020/project-models/blob/main/pic/acs6.png"  />
+<div align="left">
+  <img height="300" src="https://github.com/Philomath2020/project-models/blob/main/pic/acs6.png"  />
 </div>
 
 ### Toshkent shahrida uylarning narxini aniqlash.
@@ -79,7 +79,7 @@ Support Vector Machine model -> Training
 Accuracy data score fl 0.8333333333333334
 
 <div align="center">
-  <img height="300" src="https://github.com/Philomath2020/project-models/blob/main/pic/l2.png"  />
+  <img height="200" src="https://github.com/Philomath2020/project-models/blob/main/pic/l2.png"  />
 </div>
 
 ### Diabet prediction
