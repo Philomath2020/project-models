@@ -1,5 +1,37 @@
 # project-models
 
+### Pnevmaniya tashxisi 
+
+Pnevmaniya bor yoki yo'qligini aniqlovchi dastur
+
+dataset: Rasm ko'rinishida.
+
+<div align="left">
+  <img height="400" src="https://github.com/Philomath2020/project-models/blob/main/pic/p1%20.png"  />
+</div>
+
+Model Train:
+
+vision_learner(dls, resnet34, metrics=accuracy)
+
+<div align="left">
+  <img height="200" src="https://github.com/Philomath2020/project-models/blob/main/pic/pt2.png"  />
+</div>
+
+Baholash: Confusion matrix:
+
+<div align="center">
+  <img height="400" src="https://github.com/Philomath2020/project-models/blob/main/pic/pc3.png"  />
+</div>
+
+Classification Report:
+
+Accuracy: 98 %
+
+<div align="left">
+  <img height="300" src="https://github.com/Philomath2020/project-models/blob/main/pic/pc4.png"  />
+</div>
+
 ### airticket-price-prediction model
 
 Dataset (Ushbu maʼlumotlar toʻplami) Hindistondagi aviaqatnovlar orqali yig'ilgan 
@@ -122,7 +154,7 @@ Statistics: Qolgan va ketgan mijozlar nisbati pie charm:
 
 Qolgan va qaytgan mijozlar jinsi , oilaliligi:
 
-<div align="center">
+<div align="left">
   <img height="300" src="https://github.com/Philomath2020/project-models/blob/main/pic/c3.png"  />
 </div>
 
