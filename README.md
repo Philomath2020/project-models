@@ -79,7 +79,7 @@ Support Vector Machine model -> Training
 Accuracy data score fl 0.8333333333333334
 
 <div align="center">
-  <img height="200" src="https://github.com/Philomath2020/project-models/blob/main/pic/l2.png"  />
+  <img height="100" src="https://github.com/Philomath2020/project-models/blob/main/pic/l2.png"  />
 </div>
 
 ### Diabet prediction
@@ -100,7 +100,7 @@ Baholash: Confusion matrix
 
 Classification Report:
 
-div align="center">
+<div align="left">
   <img height="400" src="https://github.com/Philomath2020/project-models/blob/main/pic/d3.png"  />
 </div>
 
