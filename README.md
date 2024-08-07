@@ -2,7 +2,7 @@
 
 ### Pnevmaniya tashxisi 
 
-Pnevmaniya bor yoki yo'qligini aniqlovchi dastur
+Pnevmaniya bor yoki yo'qligini aniqlovchi dastur.
 
 dataset: Rasm ko'rinishida.
 
